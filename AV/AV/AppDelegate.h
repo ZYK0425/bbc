@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 //zyk
+
+//luanpeng
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
